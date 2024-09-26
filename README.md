@@ -14,7 +14,7 @@
 |*No| **Tugas* | *Detail* |
 | 1 | P5JS WTC 911 | Sebuah skrip Javascript yang menggambarkan gedung wtc yang ditabrak oleh pesawat |
 # SCREENSHOT PROGRAM
-![P5JS Pesawat Menabrak Gedung](https://kyzutogh.github.io/GrafikaKomputerTugas/Pesawat911/)
+![P5JS Pesawat Menabrak Gedung](https://github.com/KyzutoGH/GrafikaKomputerTugas/blob/main/Pesawat911/Pesawat911.png)
 
 | KyzutoSKETCH - Tugas-Tugas - Mata Kuliah Grafika Komputer |
 
