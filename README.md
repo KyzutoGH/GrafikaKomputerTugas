@@ -9,10 +9,10 @@
 
 # GRAFIKA KOMPUTER
 ### List Tugas
-|  |  |  |
-|--|--|--|
-|*No*| *Tugas* | *Detail* |
-| 1 | P5JS WTC 911 | Sebuah skrip Javascript yang menggambarkan gedung wtc yang ditabrak oleh pesawat |
+|  |  |  |  |
+|--|--|--|--|
+|*No*| *Tugas* | *Detail* | *Lihat* |
+| 1 | P5JS WTC 911 | Sebuah skrip Javascript yang menggambarkan gedung wtc yang ditabrak oleh pesawat | [a link](https://kyzutogh.github.io/GrafikaKomputerTugas/Pesawat911/) |
 # SCREENSHOT PROGRAM
 ![P5JS Pesawat Menabrak Gedung](https://github.com/KyzutoGH/GrafikaKomputerTugas/blob/main/Pesawat911/Pesawat911.png)
 
